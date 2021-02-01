@@ -32,7 +32,7 @@
 --------------
 | 제목 | 난이도 | 필수 |
 |:------:|:-----:|:------:|
-| [최단 경로](https://www.acmicpc.net/) | Gold V | Y |
-| [최소 비용](https://www.acmicpc.net/) | Gold V | Y |
-| [특정 거리의 도시찾기](https://www.acmicpc.net/) | Sliver II | Y |
+| [최단 경로](https://www.acmicpc.net/problem/1753) | Gold V | Y |
+| [최소 비용](https://www.acmicpc.net/problem/1916) | Gold V | Y |
+| [특정 거리의 도시찾기](https://www.acmicpc.net/problem/18352) | Sliver II | Y |
 | [K번째 최단 경로](https://www.acmicpc.net/problem/1854) | Platium V | N |  
