@@ -30,8 +30,9 @@
 
 2021년 2월 첫째주 - 20210201
 --------------
-| 제목 | 난이도 |
-|:------:|:-----:|
-| [예시](https://www.acmicpc.net/) | Silver III |
-| [예시](https://www.acmicpc.net/) | Gold IV |
-| [예시](https://www.acmicpc.net/) | Gold III |
+| 제목 | 난이도 | 필수 |
+|:------:|:-----:|:------:|
+| [최단 경로](https://www.acmicpc.net/) | Gold V | Y |
+| [최소 비용](https://www.acmicpc.net/) | Gold V | Y |
+| [특정 거리의 도시찾기](https://www.acmicpc.net/) | Sliver II | Y |
+| [K번째 최단 경로](https://www.acmicpc.net/problem/1854) | Platium V | N |  
