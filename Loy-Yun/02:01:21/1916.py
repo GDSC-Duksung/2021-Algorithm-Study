@@ -8,6 +8,7 @@ m = int(sys.stdin.readline())
 
 graph = [[] for _ in range(n+1)]
 dlist = [INF] * (n+1)
+
 for i in range(m):
     dep, arr, cost = map(int, sys.stdin.readline().split())
     graph[dep].append((cost, arr))
