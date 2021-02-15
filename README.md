@@ -34,14 +34,21 @@
 |:------:|:-----:|:------:|
 | [최단 경로](https://www.acmicpc.net/problem/1753) | Gold V | Y |
 | [최소 비용](https://www.acmicpc.net/problem/1916) | Gold V | Y |
-| [특정 거리의 도시찾기](https://www.acmicpc.net/problem/18352) | Sliver II | Y |
+| [특정 거리의 도시찾기](https://www.acmicpc.net/problem/18352) | Silver II | Y |
 | [K번째 최단 경로](https://www.acmicpc.net/problem/1854) | Platium V | N |  
 
 2021년 2월 둘째주 - 20210208
 --------------
 | 제목 | 난이도 | 필수 |
 |:------:|:-----:|:------:|
-| [최대 힙](https://www.acmicpc.net/problem/11279) | Sliver II | Y |
-| [토마토](https://www.acmicpc.net/problem/7576) | Sliver I | Y |
+| [최대 힙](https://www.acmicpc.net/problem/11279) | Silver II | Y |
+| [토마토](https://www.acmicpc.net/problem/7576) | Silver I | Y |
 | [트리](https://www.acmicpc.net/problem/4256) | Gold V | N |
 | [이분 그래프](https://www.acmicpc.net/problem/1707) | Gold IV | N |
+
+2021년 2월 셋째주 - 20210215
+--------------
+| 제목 | 난이도 | 필수 |
+|:------:|:-----:|:------:|
+| [1로 만들기](https://www.acmicpc.net/problem/1463) | Silver III | Y |
+| [쉬운 계단 수](https://www.acmicpc.net/problem/10844) | Silver I | Y |
