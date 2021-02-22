@@ -52,3 +52,10 @@
 |:------:|:-----:|:------:|
 | [1로 만들기](https://www.acmicpc.net/problem/1463) | Silver III | Y |
 | [쉬운 계단 수](https://www.acmicpc.net/problem/10844) | Silver I | Y |
+
+2021년 2월 넷째주 - 20210222
+--------------
+| 제목 | 난이도 | 필수 |
+|:------:|:-----:|:------:|
+| [AC](https://www.acmicpc.net/problem/5430) | Silver II | Y |
+| [검문](https://www.acmicpc.net/problem/2981) | Silver I | Y |
